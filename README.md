@@ -31,7 +31,8 @@
   <h2>TimeLine FlatList</h2>
   <ul>
     <li> <b>Installtion dependence :</b> </li>
-        <b>  https://www.npmjs.com/package/react-native-timeline-flatlist</b> 
+        <b>Timeline FlatList <a href="https://www.npmjs.com/package/react-native-timeline-flatlist">Visit for more!</a></b> 
+  
   </ul>
   
   ```javascript
