@@ -27,11 +27,12 @@
     
   </tr>
 </table>
+  
+  <h2>TimeLine FlatList</h2>
+  ![device-2021-08-02-181851](https://user-images.githubusercontent.com/75657714/127865488-2a8d76d5-c9dc-4c77-8095-7ce924b6f1ec.png)
 
-  
-  ![device-2021-08-02-181851](https://user-images.githubusercontent.com/75657714/127864852-f565ee46-74cc-42f8-b79a-57c323f257d5.png)
-  
-  ![device-2021-08-02-181933](https://user-images.githubusercontent.com/75657714/127865021-7af6e920-ad7b-4644-902f-36e02192719a.png)
+  <h2>Gallery Image View</h2>
+  ![device-2021-08-02-181933](https://user-images.githubusercontent.com/75657714/127865510-cacbbf29-fc50-4410-b4f6-5dd93e1d1b4c.png)
 
 
   
