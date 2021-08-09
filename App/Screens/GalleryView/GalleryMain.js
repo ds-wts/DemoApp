@@ -39,9 +39,7 @@ const GalleryMain = props => {
       <View style={{flex: 1}}>
         <TouchableOpacity
           onPress={() =>
-            props.navigation.navigate('GalleryView', {
-              data: {image: Images, id: index},
-            })
+            props.navigation.navigate('GalleryView',{image: Images, id: index})
           }
           style={styles.imageContainer}>
           <Image
